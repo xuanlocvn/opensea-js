@@ -15,3 +15,7 @@ export const DECENTRALAND_AUCTION_CONFIG = {
 export { ERC20 } from './abi/ERC20'
 export { ERC721 } from './abi/ERC721v3'
 export { CanonicalWETH } from './abi/CanonicalWETH'
+export { WyvernStatic } from './abi/WyvernStatic'
+export { WyvernExchange } from './abi/WyvernExchange'
+export { WyvernRegistry } from './abi/WyvernRegistry'
+export { WyvernAtomicizer } from './abi/WyvernAtomicizer'
